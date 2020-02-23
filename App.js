@@ -10,10 +10,6 @@ export default function App() {
   );
 }
 
-// const AppStackNavigator = StackNavigator({
-//   loginScreen: Login
-// })
-
 const styles = StyleSheet.create({
   view: {
     flex: 1,
