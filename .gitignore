@@ -1,7 +1,7 @@
 # Expo
-expo
+.expo/*
 __generated__
-web-build
+web-build/
 expo-shared
 
 # OSX
